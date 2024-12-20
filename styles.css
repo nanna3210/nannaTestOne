@@ -1,0 +1,25 @@
+.title {
+    color: rgba(63, 17, 17, 0.99);
+    text-align: center;
+    font-family: monospace;
+    letter-spacing: 9px
+    
+}
+
+#headingLine {
+    color: firebrick;
+    font-family:monospace;
+    text-align-last: center;
+    text-align: center;
+    display: inline-flexbox;
+}
+
+.buttonsIncDec {
+    text-align: center;
+    
+    display: flex; 
+    margin: auto; 
+    padding: 20px;
+    justify-content: space-evenly;
+   align-items: stretch;
+}
